@@ -36,6 +36,17 @@
 
         <div class="col-sm">
           <div class="card mt-2">
+            <img src="/img/mothur-nf.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Mothur & Metagenomics</h5>
+              <p class="card-text">Miseq SOP Mothur tutorial integrated with Nextflow.</p>
+              <a href="https://github.com/FusRaDa/miseq_sop_nextflow" target="_blank" class="btn btn-primary">View repo</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm">
+          <div class="card mt-2">
             <img src="/img/sunlightright.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Sunlight Right</h5>
@@ -56,16 +67,6 @@
           </div>
         </div>
 
-        <div class="col-sm">
-          <div class="card mt-2">
-            <img src="/img/mothur-nf.png" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Mothur</h5>
-              <p class="card-text">Miseq SOP Mothur tutorial integrated with Nextflow.</p>
-              <a href="https://github.com/FusRaDa/miseq_sop_nextflow" target="_blank" class="btn btn-primary">View repo</a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
