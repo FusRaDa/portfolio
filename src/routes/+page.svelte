@@ -9,7 +9,8 @@
       <img src="/img/matthew-rada-img.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">About Me</h5>
-        <p class="card-text">Graduate biotech student with an emphasis in bioinformatics and interest in web development.</p>
+        <p class="card-text">Graduate biotech student with an emphasis in bioinformatics and experienced in web development.</p>
+        <p class="card-text">Email: matthewr7.christopher@gmail.com</p>
         <a href="https://www.linkedin.com/in/christopher-rada-a657a51b6/" target="_blank" class="btn btn-primary">Linkedln</a>
       </div>
     </div>
@@ -23,7 +24,17 @@
       <div class="row">
 
         <div class="col-sm">
+          <div class="card mt-2">
+            <img src="/img/Figure_10.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">ToxPi Model Weights</h5>
+              <p class="card-text">Reproducing graph results by Fleming et al.</p>
+              <a href="https://github.com/FusRaDa/PMC11175362_reproduce_nf?tab=readme-ov-file" target="_blank" class="btn btn-primary">View repo</a>
+            </div>
+          </div>
+        </div>
 
+        <div class="col-sm">
           <div class="card mt-2">
             <img src="/img/sunlightright.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -49,7 +60,7 @@
           <div class="card mt-2">
             <img src="/img/mothur-nf.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Mothur & Nextflow Tutorial Pipeline</h5>
+              <h5 class="card-title">Mothur</h5>
               <p class="card-text">Miseq SOP Mothur tutorial integrated with Nextflow.</p>
               <a href="https://github.com/FusRaDa/miseq_sop_nextflow" target="_blank" class="btn btn-primary">View repo</a>
             </div>
