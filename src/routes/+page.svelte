@@ -9,7 +9,7 @@
       <img src="/img/matthew-rada-img.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">About Me</h5>
-        <p class="card-text">Graduate biotech student with pursuing bioinformatics and experience in web development.</p>
+        <p class="card-text">Graduate biotech student pursuing bioinformatics and experienced in web development.</p>
         <p class="card-text">Email: matthewr7.christopher@gmail.com</p>
         <a href="https://www.linkedin.com/in/christopher-rada-a657a51b6/" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-brands fa-linkedin"></i></a>
       </div>
