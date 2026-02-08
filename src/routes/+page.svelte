@@ -26,15 +26,34 @@
         <div class="col-sm">
           <div class="card mt-2">
             <div class="ratio ratio-1x1">
+              <img src="/img/trpv1-ml.PNG" class="card-img-top" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">TRPV1 Drug Discovery & Machine Learning</h5>
+              <p class="card-text">Train a ChemProp model using the ChEMBL database and make predictions using novel compounds.</p>
+              <a href="https://github.com/FusRaDa/trpv1-drug-disovery-chemprop" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-brands fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm">
+          <div class="card mt-2">
+            <div class="ratio ratio-1x1">
               <img src="/img/nf-core-rnaseq.PNG" class="card-img-top" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title">NF-Core/RNAseq</h5>
-              <p class="card-text">Running Nextflow's RNAseq pipeline into Google Collab servers.</p>
+              <p class="card-text">Running Nextflow's RNAseq pipeline into Google Collab servers and graphing counts.</p>
               <a href="https://github.com/FusRaDa/RNAseq-nf-core" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-brands fa-github"></i></a>
             </div>
           </div>
         </div>
+
+      </div>
+    </div>
+
+    <div class="container text-center d-flex justify-content-center">
+      <div class="row">
 
         <div class="col-sm">
           <div class="card mt-2">
