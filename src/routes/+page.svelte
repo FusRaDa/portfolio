@@ -29,7 +29,7 @@
               <img src="/img/trpv1-ml.PNG" class="card-img-top" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title">TRPV1 Drug Discovery & Machine Learning</h5>
+              <h5 class="card-title">TRPV1 Agonist Discovery & Machine Learning</h5>
               <p class="card-text">Train a ChemProp model using the ChEMBL database and make predictions using novel compounds.</p>
               <a href="https://github.com/FusRaDa/trpv1-drug-disovery-chemprop" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-brands fa-github"></i></a>
             </div>
