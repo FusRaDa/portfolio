@@ -30,7 +30,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">Capstone Project - Vaccination Coverage & Cases</h5>
-              <p class="card-text">Train a ChemProp model using the ChEMBL database and make predictions using novel compounds.</p>
+              <p class="card-text">Wrangle and present data from Project Tycho and CDC NIS-Child.</p>
               <a href="https://biot670i-group1.streamlit.app/" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-solid fa-globe"></i></a>
             </div>
           </div>
