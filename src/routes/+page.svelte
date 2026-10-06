@@ -26,6 +26,19 @@
         <div class="col-sm">
           <div class="card mt-2">
             <div class="ratio ratio-1x1">
+              <img src="img/capstone-project.PNG" class="card-img-top" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Capstone Project - Vaccination Coverage & Cases</h5>
+              <p class="card-text">Train a ChemProp model using the ChEMBL database and make predictions using novel compounds.</p>
+              <a href="https://biot670i-group1.streamlit.app/" target="_blank" class="btn btn-lg btn-primary" aria-label="external-link"><i class="fa fa-solid fa-globe"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm">
+          <div class="card mt-2">
+            <div class="ratio ratio-1x1">
               <img src="/img/trpv1-ml.PNG" class="card-img-top" alt="...">
             </div>
             <div class="card-body">
